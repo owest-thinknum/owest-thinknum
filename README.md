@@ -15,7 +15,7 @@
   - personal: Russian via Gould's 'Russian for the Mathematician', Italian with podcasts
   - personal: algorithmic music composition with [supercollider](supercollider.github.io)
 - 💞️ I’m looking to collaborate on ...
-  - Nothing planned at the moment, but I'm open to any suggestions/requests. 
+  - Nothing at the moment, except the job listings redesign I'm working on. I'm open to any suggestions/requests for collaboration. 
 - 📫 How to reach me ...
   - Work email: owain.west@thinknum.com
   - Personal email: owest@sas.upenn.edu
