@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @owest-thinknum
+- 👋 Hi, I’m Owain
 - 👀 I’m interested in: 
     - books: from fantasy to textbooks and in-between. I always appreciate recommendations. 
         - Some recommendations of my own: 'Philosophy of Physics' (Max Planck, particularly the final 8pgs of Ch1), 'A Very Easy Death' (Simone de Beauvoir), 'We' (Yevgeni Zamyatin)
-    - fundamental questions about truth/knowledge/learnability/communication, and philsophy more broadly
+    - fundamental questions about truth/knowledge/learnability/communication, and philosophy more broadly
     - formal logic, and related applications in philosophy, CS, and math
     - music: see my [last.fm](last.fm/user/owainwest) for data on my historical listening. I always appreciate recommendations. Were it not for covid, I'd frequently be found dancing at basement concerts, a-la-philly-diy-scene. 
     - sports: I played competitive hockey and baseball in a previous life, before dropping that in favor of academics, and still enjoy watching. Go Leafs and Jays. I am good at, and really enjoy, table tennis. 
