@@ -4,7 +4,7 @@
         - Some recommendations of my own: 'Philosophy of Physics' (Max Planck, particularly the final 8pgs of Ch1), 'A Very Easy Death' (Simone de Beauvoir), 'We' (Yevgeni Zamyatin)
     - fundamental questions about truth/knowledge/learnability/communication, and philsophy more broadly
     - formal logic, and related applications in philosophy, CS, and math
-    - music: see last.fm/user/owainwest for data on my historical listening. I always appreciate recommendations. Were it not for covid, I'd frequently be found dancing at basement concerts, a-la-philly-diy-scene. 
+    - music: see my [last.fm](last.fm/user/owainwest) for data on my historical listening. I always appreciate recommendations. Were it not for covid, I'd frequently be found dancing at basement concerts, a-la-philly-diy-scene. 
     - sports: I played competitive hockey and baseball in a previous life, before dropping that in favor of academics, and still enjoy watching. Go Leafs and Jays. I am good at, and really enjoy, table tennis. 
     - chess: I'm not good at it, but I'm enjoying learning
     - photography: some examples are linked on my [personal site](owainwest.com)
